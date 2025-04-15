@@ -70,4 +70,4 @@ document.addEventListener("mousemove", (e) => {
 swiperAnimation();
 page4Animation();
 menuAnimation();
-// loaderAnimation();
+loaderAnimation();
